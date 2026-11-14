@@ -8,8 +8,6 @@
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stack-dark.svg"><img src="assets/stack-light.svg" width="100%" alt="mmmMachine code!"></picture>
 
-<a href="https://github.com/akunaiix/chunk-linux"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/project-chunk-linux-dark.svg"><img src="assets/project-chunk-linux-light.svg" width="49%" alt="chunk-linux"></picture></a>
-
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/stats-dark.svg"><img src="assets/stats-light.svg" width="100%" alt="GitHub activity"></picture>
 
 <picture><source media="(prefers-color-scheme: dark)" srcset="assets/streak-dark.svg"><img src="assets/streak-light.svg" width="100%" alt="Streak"></picture>
